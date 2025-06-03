@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Особенности docker run.md",
+                "file": "сети/Сети.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Особенности docker run"
+              "title": "Сети"
             }
           }
         ]
@@ -170,12 +170,16 @@
   },
   "active": "7c4803d06ea60d15",
   "lastOpenFiles": [
+    "docker/Запуск контейнера.md",
+    "сети/Сети.md",
+    "Pasted image 20250603193317.png",
+    "docker/Без названия.md",
+    "сети",
+    "docker/Особенности docker run.md",
     "команды для linux/Установка сторонних программ.md",
     "команды для linux/Работа с файлами или работа с модификаторами доступа.md",
     "команды для linux/Работа с памятью, сжатие файлов и редакторы текста.md",
     "команды для linux/Работа с пакетными менеджерами.md",
-    "docker/Особенности docker run.md",
-    "docker/Запуск контейнера.md",
     "команды для linux/BASH скрипты.md",
     "docker",
     "Без названия.md",
