@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "команды для linux/BASH скрипты.md",
+                "file": "сети/Инструменты для отладки сети.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BASH скрипты"
+              "title": "Инструменты для отладки сети"
             }
           }
         ]
@@ -168,15 +168,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a61d9f7bde05eda",
+  "active": "7c4803d06ea60d15",
   "lastOpenFiles": [
-    "Docker",
-    "команды для linux/Работа с пакетными менеджерами.md",
-    "команды для linux/Установка сторонних программ.md",
-    "команды для linux/Работа с сетью.md",
+    "Pasted image 20250612164536.png",
+    "Pasted image 20250612164007.png",
+    "Pasted image 20250612163148.png",
+    "сети/Общие понятия.md",
+    "сети/Инструменты для отладки сети.md",
+    "сети/Сети.md",
+    "docker/Переменные окружения.md",
+    "docker/Особенности docker run.md",
+    "docker/Образы докер.md",
+    "docker/Запуск контейнера.md",
+    "docker/Docker compose.md",
+    "docker",
+    "Pasted image 20250612140124.png",
+    "Pasted image 20250612140041.png",
+    "Pasted image 20250612135832.png",
+    "Pasted image 20250612135108.png",
+    "Pasted image 20250612135018.png",
+    "Pasted image 20250612134929.png",
+    "Pasted image 20250612134638.png",
+    "Pasted image 20250611170834.png",
     "команды для linux/BASH скрипты.md",
+    "команды для linux/Установка сторонних программ.md",
+    "команды для linux/Работа с пакетными менеджерами.md",
     "команды для linux/Работа с памятью, сжатие файлов и редакторы текста.md",
+    "команды для linux/Работа с сетью.md",
     "команды для linux/Работа с файлами или работа с модификаторами доступа.md",
+    "сети",
+    "Без названия.md",
+    "Docker",
     "команды для linux/Без названия",
     "Welcome.md",
     "Проверка связи/Работает.md",
