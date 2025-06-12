@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -160,21 +160,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "7c4803d06ea60d15",
   "lastOpenFiles": [
+    "сети/Общие понятия.md",
+    "git/Основные команды.md",
+    "сети/Инструменты для отладки сети.md",
+    "git",
     "Pasted image 20250612164536.png",
     "Pasted image 20250612164007.png",
     "Pasted image 20250612163148.png",
-    "сети/Общие понятия.md",
-    "сети/Инструменты для отладки сети.md",
     "сети/Сети.md",
     "docker/Переменные окружения.md",
     "docker/Особенности docker run.md",
@@ -189,7 +191,6 @@
     "Pasted image 20250612135018.png",
     "Pasted image 20250612134929.png",
     "Pasted image 20250612134638.png",
-    "Pasted image 20250611170834.png",
     "команды для linux/BASH скрипты.md",
     "команды для linux/Установка сторонних программ.md",
     "команды для linux/Работа с пакетными менеджерами.md",
