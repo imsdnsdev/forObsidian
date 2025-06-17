@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "команды для linux/Работа с сетью.md",
+                "file": "docker/Особенности docker run.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с сетью"
+              "title": "Особенности docker run"
             }
           }
         ]
@@ -168,8 +168,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8a61d9f7bde05eda",
+  "active": "7c4803d06ea60d15",
   "lastOpenFiles": [
+    "docker/Запуск контейнера.md",
+    "docker/Без названия.md",
+    "docker/Особенности docker run.md",
+    "команды для linux/Работа с сетью.md",
     "сети/Сети.md",
     "сети/Общие понятия.md",
     "сети/Инструменты для отладки сети.md",
@@ -177,9 +181,7 @@
     "git/Основные команды.md",
     "git",
     "docker/Переменные окружения.md",
-    "docker/Особенности docker run.md",
     "docker/Образы докер.md",
-    "docker/Запуск контейнера.md",
     "docker/Docker compose.md",
     "Pasted image 20250612164536.png",
     "Pasted image 20250612164007.png",
@@ -196,7 +198,6 @@
     "команды для linux/Установка сторонних программ.md",
     "команды для linux/Работа с файлами или работа с модификаторами доступа.md",
     "команды для linux/BASH скрипты.md",
-    "команды для linux/Работа с сетью.md",
     "команды для linux/Без названия",
     "Welcome.md",
     "Проверка связи/Работает.md",
