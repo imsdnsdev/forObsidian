@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Сети в докер.md",
+                "file": "docker/Особенности docker run.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сети в докер"
+              "title": "Особенности docker run"
             }
           }
         ]
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -170,11 +170,15 @@
   },
   "active": "7c4803d06ea60d15",
   "lastOpenFiles": [
-    "docker/Запуск контейнера.md",
+    "docker/Переменные окружения.md",
     "docker/Особенности docker run.md",
-    "docker/Образы докер.md",
     "docker/Сети в докер.md",
+    "docker/Тома (volumes).md",
     "docker/Docker compose.md",
+    "docker/Docker Engine.md",
+    "Pasted image 20250619235836.png",
+    "docker/Запуск контейнера.md",
+    "docker/Образы докер.md",
     "сети/Инструменты для отладки сети.md",
     "команды для linux/Работа с сетью.md",
     "команды для linux/Работа с пакетными менеджерами.md",
@@ -186,7 +190,6 @@
     "сети",
     "git/Основные команды.md",
     "git",
-    "docker/Переменные окружения.md",
     "pictures/Pasted image 20250612164536.png",
     "pictures/Pasted image 20250612164007.png",
     "pictures/Pasted image 20250612163148.png",
@@ -196,7 +199,6 @@
     "pictures/Pasted image 20250612135108.png",
     "pictures/Pasted image 20250612135018.png",
     "pictures/Pasted image 20250612134929.png",
-    "pictures/Pasted image 20250612134638.png",
     "команды для linux/Работа с памятью, сжатие файлов и редакторы текста.md",
     "команды для linux/Работа с файлами или работа с модификаторами доступа.md",
     "команды для linux/Без названия",
