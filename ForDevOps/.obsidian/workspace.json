@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/Особенности docker run.md",
+                "file": "docker/Dockerfile/Инструкции по написанию Dockerfile's.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Особенности docker run"
+              "title": "Инструкции по написанию Dockerfile's"
             }
           }
         ]
@@ -170,15 +170,26 @@
   },
   "active": "7c4803d06ea60d15",
   "lastOpenFiles": [
-    "docker/Переменные окружения.md",
+    "docker/Dockerfile/Образы докер.md",
+    "docker/Dockerfile/Инструкции по написанию Dockerfile's.md",
+    "docker/Dockerfile/Многоэтапная сборка.md",
+    "docker/Dockerfile/файл.Dockerignoire.md",
+    "docker/Dockerfile/Переменные окружения.md",
     "docker/Особенности docker run.md",
+    "docker/Переменные окружения.md",
     "docker/Сети в докер.md",
-    "docker/Тома (volumes).md",
-    "docker/Docker compose.md",
     "docker/Docker Engine.md",
-    "Pasted image 20250619235836.png",
     "docker/Запуск контейнера.md",
-    "docker/Образы докер.md",
+    "docker/Dockerfile/Разница между CMD и ENTRYPOINT.md",
+    "docker/Volumes/Тома (volumes).md",
+    "docker/Dockerfile",
+    "docker/Dockerfile.md",
+    "docker/Volumes/Работа с томами для управления постоянными данными.md",
+    "docker/Volumes",
+    "docker/Docker compose.md",
+    "git/Основные команды.md",
+    "сети/Общие понятия.md",
+    "Pasted image 20250619235836.png",
     "сети/Инструменты для отладки сети.md",
     "команды для linux/Работа с сетью.md",
     "команды для linux/Работа с пакетными менеджерами.md",
@@ -186,9 +197,7 @@
     "команды для linux/BASH скрипты.md",
     "pictures",
     "сети/Сети.md",
-    "сети/Общие понятия.md",
     "сети",
-    "git/Основные команды.md",
     "git",
     "pictures/Pasted image 20250612164536.png",
     "pictures/Pasted image 20250612164007.png",
@@ -203,7 +212,6 @@
     "команды для linux/Работа с файлами или работа с модификаторами доступа.md",
     "команды для linux/Без названия",
     "Welcome.md",
-    "Проверка связи/Работает.md",
     "команды для linux",
     "Проверка связи"
   ]
