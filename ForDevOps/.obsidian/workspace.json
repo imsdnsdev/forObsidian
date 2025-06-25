@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сети/Инструменты/Инструменты для отладки сети.md",
+                "file": "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для изменения маршрутной информации.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инструменты для отладки сети"
+              "title": "Инструменты для изменения маршрутной информации"
             }
           }
         ]
@@ -170,14 +170,21 @@
   },
   "active": "8a61d9f7bde05eda",
   "lastOpenFiles": [
+    "pictures/Pasted image 20250625205918.png",
+    "pictures/Pasted image 20250625205859.png",
+    "pictures/Pasted image 20250625205846.png",
+    "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для просмотра маршрутной информации.md",
+    "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для изменения маршрутной информации.md",
+    "сети/Инструменты/Инструменты для отладки сети.md",
+    "сети/Инструменты/Инструменты для работы с маршрутами",
+    "сети/Инструменты/Инструменты для работы с маршрутами.md",
     "Учебный процесс",
     "сети/Инструменты/ipconfig.md",
-    "сети/Инструменты/Инструменты для отладки сети.md",
     "команды для linux/Работа с сетью (linux course).md",
     "сети/Сети.md",
-    "Pasted image 20250625175555.png",
-    "Pasted image 20250625175546.png",
-    "Pasted image 20250625175513.png",
+    "pictures/Pasted image 20250625175555.png",
+    "pictures/Pasted image 20250625175546.png",
+    "pictures/Pasted image 20250625175513.png",
     "сети/Инструменты/Другие команды.md",
     "docker/Volumes/Тома (volumes).md",
     "docker/Volumes/Работа с томами для управления постоянными данными.md",
@@ -198,12 +205,9 @@
     "docker/Dockerfile/Образы докер.md",
     "docker/Dockerfile/Многоэтапная сборка.md",
     "docker/Особенности docker run.md",
-    "docker/Переменные окружения.md",
-    "docker/Docker Engine.md",
-    "docker/Запуск контейнера.md",
     "docker/Dockerfile",
     "docker/Volumes",
-    "Pasted image 20250619235836.png",
+    "pictures/Pasted image 20250619235836.png",
     "pictures",
     "сети",
     "git",
@@ -211,10 +215,6 @@
     "pictures/Pasted image 20250612164007.png",
     "pictures/Pasted image 20250612163148.png",
     "pictures/Pasted image 20250612140124.png",
-    "pictures/Pasted image 20250612140041.png",
-    "pictures/Pasted image 20250612135832.png",
-    "команды для linux/Без названия",
-    "команды для linux",
-    "Проверка связи"
+    "команды для linux/Без названия"
   ]
 }
