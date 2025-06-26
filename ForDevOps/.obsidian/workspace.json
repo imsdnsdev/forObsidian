@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "eff96a59ba03f21b",
+    "id": "243fb02d4974c482",
     "type": "split",
     "children": [
       {
-        "id": "a9d21df936a57212",
+        "id": "475cf01ac7f53bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "7c4803d06ea60d15",
+            "id": "a73560d2064af0a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для изменения маршрутной информации.md",
+                "file": "сети/Инструменты для отладки сети.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инструменты для изменения маршрутной информации"
+              "title": "Инструменты для отладки сети"
+            }
+          },
+          {
+            "id": "c84906d54f14d8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа/Заметки/26.06.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26.06.25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "63bc2d8419dd6773",
+    "id": "fe87d65c6b98993a",
     "type": "split",
     "children": [
       {
-        "id": "94e604b79aafe381",
+        "id": "01e129388de0b723",
         "type": "tabs",
         "children": [
           {
-            "id": "8a61d9f7bde05eda",
+            "id": "d9acbe5897dc6ab9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +59,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
-            "id": "cd3c50c7ecb536b2",
+            "id": "945e19cf82575d44",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,11 +76,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
-            "id": "94e937a36fdeeffe",
+            "id": "ba732e2d34b893bc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "63d1c8c6dc9912ee",
+    "id": "fb0db1bd140c553b",
     "type": "split",
     "children": [
       {
-        "id": "88ce4552e7aacec9",
+        "id": "fa12c3d1ff3726cf",
         "type": "tabs",
         "children": [
           {
-            "id": "571e13b198242f3b",
+            "id": "ee7662cb9a42147a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проверка связи/Работает.md",
+                "file": "команды для linux/Работа с сетью.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Работает"
+              "title": "Backlinks for Работа с сетью"
             }
           },
           {
-            "id": "6d6524e692924e86",
+            "id": "c52650acf6fc6aba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проверка связи/Работает.md",
+                "file": "команды для linux/Работа с сетью.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Работает"
+              "title": "Outgoing links from Работа с сетью"
             }
           },
           {
-            "id": "ea1c2a8431039a9f",
+            "id": "c3c57dbefe5907e8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +152,18 @@
             }
           },
           {
-            "id": "46075ffc74c1a1a8",
+            "id": "8f2093fe93aa3075",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проверка связи/Работает.md",
+                "file": "команды для linux/Работа с сетью.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Работает"
+              "title": "Outline of Работа с сетью"
             }
           }
         ]
@@ -160,61 +175,60 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8a61d9f7bde05eda",
+  "active": "c84906d54f14d8f2",
   "lastOpenFiles": [
+    "команды для linux/Работа с сетью.md",
+    "Работа/Заметки/26.06.25.md",
+    "Работа/Заметки",
+    "Работа",
+    "Untitled",
+    "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для просмотра маршрутной информации.md",
+    "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для изменения маршрутной информации.md",
+    "сети/Инструменты/Инструменты для работы с маршрутами",
+    "сети/Инструменты/Инструменты для отладки сети.md",
+    "сети/Инструменты/ipconfig.md",
+    "сети/Инструменты",
+    "команды для linux/Работа с сетью (linux course).md",
     "pictures/Pasted image 20250625205918.png",
     "pictures/Pasted image 20250625205859.png",
     "pictures/Pasted image 20250625205846.png",
-    "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для просмотра маршрутной информации.md",
-    "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для изменения маршрутной информации.md",
-    "сети/Инструменты/Инструменты для отладки сети.md",
-    "сети/Инструменты/Инструменты для работы с маршрутами",
-    "сети/Инструменты/Инструменты для работы с маршрутами.md",
-    "Учебный процесс",
-    "сети/Инструменты/ipconfig.md",
-    "команды для linux/Работа с сетью (linux course).md",
-    "сети/Сети.md",
     "pictures/Pasted image 20250625175555.png",
     "pictures/Pasted image 20250625175546.png",
     "pictures/Pasted image 20250625175513.png",
-    "сети/Инструменты/Другие команды.md",
+    "pictures/Pasted image 20250619235836.png",
+    "pictures/Pasted image 20250612164536.png",
+    "pictures/Pasted image 20250612164007.png",
+    "pictures/Pasted image 20250612163148.png",
+    "pictures",
+    "docker/Сети в докер.md",
+    "docker/Политика перезапуска контейнеров.md",
     "docker/Volumes/Тома (volumes).md",
     "docker/Volumes/Работа с томами для управления постоянными данными.md",
-    "docker/Dockerfile/Инструкции по написанию Dockerfile's.md",
-    "сети/Инструменты",
-    "сети/Без названия.md",
-    "docker/Docker-compose/Docker-composes файл.md",
-    "docker/Docker compose.md",
-    "docker/Сети в докер.md",
-    "docker/Docker-compose",
-    "docker/Без названия.md",
-    "docker/Docker events.md",
-    "docker/Политика перезапуска контейнеров.md",
+    "docker/Volumes",
     "docker/Dockerfile/Экспорт Dockerfile в тар файл.md",
     "docker/Dockerfile/файл.Dockerignoire.md",
     "docker/Dockerfile/Разница между CMD и ENTRYPOINT.md",
     "docker/Dockerfile/Переменные окружения.md",
     "docker/Dockerfile/Образы докер.md",
     "docker/Dockerfile/Многоэтапная сборка.md",
-    "docker/Особенности docker run.md",
+    "docker/Dockerfile/Инструкции по написанию Dockerfile's.md",
     "docker/Dockerfile",
-    "docker/Volumes",
-    "pictures/Pasted image 20250619235836.png",
-    "pictures",
-    "сети",
-    "git",
-    "pictures/Pasted image 20250612164536.png",
-    "pictures/Pasted image 20250612164007.png",
-    "pictures/Pasted image 20250612163148.png",
-    "pictures/Pasted image 20250612140124.png",
-    "команды для linux/Без названия"
+    "docker/Docker-compose/Docker-composes файл.md",
+    "docker/Docker-compose",
+    "docker/Docker events.md",
+    "docker/Docker Engine.md",
+    "команды для linux/Работа с файлами или работа с модификаторами доступа.md",
+    "команды для linux/Установка сторонних программ.md",
+    "docker/Запуск контейнера.md",
+    "docker/Docker compose.md",
+    "сети/Инструменты для отладки сети.md"
   ]
 }
