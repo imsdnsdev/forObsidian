@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Заметки/26.06.25.md",
+                "file": "Работа/Заметки/По домашнему изучению.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.06.25"
+              "title": "По домашнему изучению"
             }
           }
         ],
@@ -185,11 +185,20 @@
   },
   "active": "c84906d54f14d8f2",
   "lastOpenFiles": [
-    "команды для linux/Работа с сетью.md",
+    "jenkins/Locable resources.md",
+    "Работа/Заметки/По домашнему изучению.md",
+    "docker/Docker events.md",
+    "jenkins/wait until.md",
+    "jenkins/Обработка исключений (retry).md",
+    "jenkins/типы данных.md",
+    "jenkins/Область видимости.md",
+    "jenkins/Сборка пайплайнов.md",
+    "Работа/Таски.md",
     "Работа/Заметки/26.06.25.md",
+    "jenkins",
+    "команды для linux/Работа с сетью.md",
     "Работа/Заметки",
     "Работа",
-    "Untitled",
     "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для просмотра маршрутной информации.md",
     "сети/Инструменты/Инструменты для работы с маршрутами/Инструменты для изменения маршрутной информации.md",
     "сети/Инструменты/Инструменты для работы с маршрутами",
@@ -219,16 +228,7 @@
     "docker/Dockerfile/Переменные окружения.md",
     "docker/Dockerfile/Образы докер.md",
     "docker/Dockerfile/Многоэтапная сборка.md",
-    "docker/Dockerfile/Инструкции по написанию Dockerfile's.md",
     "docker/Dockerfile",
-    "docker/Docker-compose/Docker-composes файл.md",
-    "docker/Docker-compose",
-    "docker/Docker events.md",
-    "docker/Docker Engine.md",
-    "команды для linux/Работа с файлами или работа с модификаторами доступа.md",
-    "команды для linux/Установка сторонних программ.md",
-    "docker/Запуск контейнера.md",
-    "docker/Docker compose.md",
-    "сети/Инструменты для отладки сети.md"
+    "docker/Docker-compose"
   ]
 }
